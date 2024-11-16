@@ -133,11 +133,11 @@ communications.
     adapt should that person leave the organization; to the outside world,
     no contact information needs to change.
 
-    The IETF's [RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350){:target="_blank"}
+    The IETF's [RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350){:target="\_blank"}
     _Expectations for Computer Security Incident Response_ (aka BCP-21) 
     suggests you include contact information as
     part of your overall CSIRT disclosure policy and process publication.
-    [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116){:target="_blank"}
+    [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116){:target="\_blank"}
     _A File Format to Aid in Security Vulnerability Disclosure_
     See the [security.txt](https://securitytxt.org/){:target="_blank"} site for more.
 
