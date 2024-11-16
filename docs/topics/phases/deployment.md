@@ -70,14 +70,14 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
     code execution on Domain Name System (DNS) servers, or virtualization
     escapes in cloud services serve as examples. 
 
-    - [VU#498440](https://www.kb.cert.org/vuls/id/498440/){:target="_blank"} _Multiple TCP/IP implementations may use
+    - [VU#498440](https://www.kb.cert.org/vuls/id/498440/){:target="\_blank"} _Multiple TCP/IP implementations may use
     statistically predictable initial sequence numbers_
-    - [JSA10883](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){:target="_blank"} _2018-10 Security Bulletin: Junos OS: Receipt of a
+    - [JSA10883](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){:target="\_blank"} _2018-10 Security Bulletin: Junos OS: Receipt of a
     specifically crafted malicious MPLS packet leads to a Junos kernel
     crash (CVE-2018-0049)_
-    - [VU#196945](https://www.kb.cert.org/vuls/id/196945/){:target="_blank"} _ISC BIND 8 contains buffer overflow in transaction
+    - [VU#196945](https://www.kb.cert.org/vuls/id/196945/){:target="\_blank"} _ISC BIND 8 contains buffer overflow in transaction
     signature (TSIG) handling code_
-    - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html){:target="_blank"} _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
+    - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html){:target="\_blank"} _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
     x86: 64bit PV guest breakout via pagetable use-after-mode-change_
 
 !!! tip "Amplify the Message"
